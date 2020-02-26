@@ -9,7 +9,7 @@ body {
 }
 
 img {
-  background-image: url("/images/jesus.jpg");
+  background-image: url("images/jesus.png");
   display: block;
   margin-left: auto;
   margin-right: auto;
